@@ -1,0 +1,17 @@
+certifi==2023.7.22
+charset-normalizer==3.3.2
+click==8.1.7
+colorama==0.4.6
+docopt==0.6.2
+idna==3.4
+pipreqs==0.4.13
+pycryptodome==3.19.0
+PyQt5==5.15.10
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.13.0
+PyQt5-stubs==5.15.6.0
+python-dotenv==1.0.0
+requests==2.31.0
+sage==0.0.0
+urllib3==2.1.0
+yarg==0.1.9
